@@ -14,5 +14,10 @@
 
 .contact__link{
     font-size: x-large;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
